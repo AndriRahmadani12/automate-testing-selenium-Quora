@@ -1,9 +1,3 @@
-# Ujian Akhir Semester (UAS) - Mata Kuliah PPKPL
-
-## Identitas
-- **Nama:** Andri Rahmadani
-- **NIM:** 2110817110008
-
 ## Daftar Uji Fungsionalitas
 
 ### 1. Periksa Fungsi Login
